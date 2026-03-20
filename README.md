@@ -1,20 +1,24 @@
-Title: 1D Elastic Collision Simulator
-Description: A Python-based physics simulation using Pygame to model 1D elastic collisions between two objects.
+# ⚡ Collision Simulator
 
-Features:
+The **Collision Simulator** is a project designed to model and visualize collisions between objects.  
+It was developed as part of my programming studies, focusing on simulation logic, visualization, and performance.
 
-  * Object-Oriented Design: Clean structure using a Ball class to manage physics properties (mass, velocity, radius) and rendering.
+---
 
-  * Dynamic Inputs: Allows users to set custom masses and initial velocities via the terminal before launching the graphical interface.
+## 🚀 Features
+- Object collision simulation with customizable parameters
+- Clear and modular code structure
+- Easy to run and extend for new experiments
+- Logs and outputs for analysis
 
-  * Real-time Rendering: Displays live velocity and mass data on-screen during the simulation.
+---
 
-  * Physics Engine: Accurately calculates post-collision velocities using the conservation of momentum and kinetic energy formulas.
+## 📂 Project Structure
+- `main.py` → entry point for running the simulation
 
-How to Run:
+---
 
-  * Prerequisites
-    - Python 3.10 - 3.12 isntalled
+## 🛠️ How to Run
 
-  * Install dependencies
-    - pip install pygame
+### Prerequisites
+- Python 3.10 - 3.12
